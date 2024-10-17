@@ -31,5 +31,5 @@ Trabalho avaliativo ministrado pelo Prof. Richard referente a disciplina de Téc
 git add .
 git commit -m "mensagem-do-commit"
 git push
-```
+```'
 
